@@ -5,3 +5,46 @@
 /* write your rules below  this line*/
 
 
+.dark-bg{
+    background-color: #1e1e1e;
+}
+.light-text{
+    color: #ffffff;
+}
+.rounded{
+    border-radius: 10px;
+}
+.spaced-out{
+    padding:20px;
+}
+#page-title{
+    font-size:48px;
+    text-align:center;
+}
+.card{
+    border:10px;
+    background-color:antiquewhite;
+    padding:20px;
+    border-style:groove;
+}
+.warning{
+    font-style:bold;
+    font-size:xx-large;
+    color:red;
+}
+.img-style{
+    border:10px;
+    border-style:solid;
+    border-radius: 20px 20px 20px 20px;
+    border-color: cyan;
+}
+.tagging{
+    border:20px cyan solid;
+    padding:25px;
+    border-radius: 20px 0px 20px 0px;
+}
+#footer{
+    background-color:#1e1e1e;
+    color:aliceblue;
+    text-align:center;
+}
